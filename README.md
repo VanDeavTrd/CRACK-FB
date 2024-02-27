@@ -1,8 +1,8 @@
 # CRACK-FB
 
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Maulana-XD?style=flat-square&logo=github)](https://github.com/Maulana-XD)<br> [![Facebook](https://img.shields.io/badge/Facebook-maulana.xd.devcode-blue?style=flat-square&logo=facebook)](https://www.facebook.com/maulana.xd.devcode)<br>
+# COMING SOON 🔥
 
-![Profile Views](https://komarev.com/ghpvc/?username=Maulana-XD&label=Profile+Views&style=flat-square&color=blue)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Maulana-XD?style=flat-square&logo=github)](https://github.com/Maulana-XD)<br> [![Facebook](https://img.shields.io/badge/Facebook-maulana.xd.devcode-blue?style=flat-square&logo=facebook)](https://www.facebook.com/maulana.xd.devcode)<br>
 
 <h1 align="center"> [Installing]</h1>
 
